@@ -12,7 +12,7 @@ We are very grateful to Professor Kendall E. Atkinson of the University of Iowa 
 Dr. Congpei An has developed and maintained a toolbox "sphere_approx_toolbox_v3.0" since 2017. This toolbox is also provided in this folder. Enjoy the spherical world!
 
 # Cube
-Codes in this folder is based on a package "Hyper3", which is available at https://www.math.unipd.it/~demarchi/software.html. This package corresponds to a paper entitled "New cubature formulae and hyperinterpolation in three variables" (by S. De Marchi, M. Vianello, and Y. Xu). We put this package in a subfolder called "utilities", and the credit of codes in this subfolder must go to S. De Marchi and M. Vianello. Based on their M-files, we write a function CX_Interpolation.m for hyperinterpolation with cosideration of noisy data. Our main function is CX_Interpolationlasso.m.
+Codes in this folder are based on a package "Hyper3", which is available at https://www.math.unipd.it/~demarchi/software.html. This package corresponds to a paper entitled "New cubature formulae and hyperinterpolation in three variables" (by S. De Marchi, M. Vianello, and Y. Xu). We put this package in a subfolder called "utilities", and the credit must go to S. De Marchi and M. Vianello. Based on their M-files, we write a function CX_Interpolation.m for hyperinterpolation with cosideration of noisy data. Our main function is CX_Interpolationlasso.m.
 
 
 
