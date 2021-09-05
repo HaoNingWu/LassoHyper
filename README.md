@@ -1,5 +1,5 @@
 # LassoHyper
-This is a collection of MATLAB codes to reproduce all the figures in the paper "Lasso hyperinterpolation over general regions" by Congpei An and Hao-Ning Wu, whicj is available on [arxiv 2011.00433](https://arxiv.org/abs/2011.00433).
+This is a collection of MATLAB codes to reproduce all the figures in the paper "Lasso hyperinterpolation over general regions" by Congpei An and Hao-Ning Wu, which is available on [arxiv 2011.00433](https://arxiv.org/abs/2011.00433).
 
 This collection consists of four foulders, including Lasso hyperinterpolation on the interval, on the disc, on the sphere, and in the cube.
 # Interval
