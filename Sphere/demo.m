@@ -66,7 +66,7 @@ L = 25;
     f = func(X_k,rbf_k);
     
     % add noise
-    f = f+ normrnd(0,r,(model_parameter.t+1)^2,1)+noise*binornd(1,noise,(model_parameter.t+1)^2,1);
+    f = f+ normrnd(0,noise,(model_parameter.t+1)^2,1)+r*binornd(1,r,(model_parameter.t+1)^2,1);
     
     % hyperinterpolation coefficients
     model_parameter.beta = 1;  
